@@ -1,6 +1,6 @@
 ﻿import os #Importa o módulo padrão "os" para acessar variáveis ​​de ambiente e recursos do sistema operacional.
 import json #Importar o módulo "json" para ler e gerar dados estruturados no formato JSON.
-import logging #Importar o módulo loggingpara registrar mensagens e avisos de execução da aplicação.
+import logging #Importar o módulo "logging" para registrar mensagens e avisos de execução da aplicação.
 from pathlib import Path #Importar uma classe "Path" para manipular caminhos de arquivos e pastas de forma limpa e compatível entre sistemas operacionais.
 try: #o código continua importando o FastAPI (com fallback caso não esteja instalado) e as dependências do sistema agrícola.
     
